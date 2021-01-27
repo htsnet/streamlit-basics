@@ -6,8 +6,8 @@ st.set_page_config(page_title='Basic commands from Streamlit', page_icon=':smile
 def main():
     st.title("Streamlit Basics")
 
-    st.header('Some basic commands from **Streamlit**')
-    st.subheader('Just some commands...')
+    st.header('Some basic resources from **Streamlit**')
+    st.subheader('Just some commands to create this page...')
 
     st.subheader('Messages')
 
