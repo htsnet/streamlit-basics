@@ -26,6 +26,8 @@ def main():
     st.checkbox('Checkbox')
     st.radio('Radiobutton', ['Option 1', 'Option 2', 'Option 3'])
 
+    st.slider('Select an year', 2017, 2020, 2019) 
+
     st.sidebar.write("A sidebar to show any information...")
 
 
